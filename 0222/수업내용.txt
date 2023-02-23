@@ -1,0 +1,19 @@
+수업내용
+1. 부트스트랩
+2. react
+3. 네이버 카페, 클래스룸 자료 업로드
+---------------------------------------------
+목업다운로드 ---------------------------------------------
+http://graphicburger.com
+http://alienvalley.com/freebies
+http://www.freebiespsd.com
+http://www.pixeden.com/free-graphics
+
+jeon9897@naver.com
+
+https://react.vlpt.us/
+
+1. 컴포넌트(class, 함수)
+2. jsx문법
+3. props (부모 컴포넌트로부터 물려받는 속성)
+4. state(상태값을 관리하기 위한 것/ sns 이메일 갯수에 따라 숫자올라갈때 1234)

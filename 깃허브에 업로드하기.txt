@@ -1,0 +1,14 @@
+github에 bootstrap목차 업로드하기
+1. git계정에 레포지토리 생성
+2. settings > page에서 branch를 main으로 변경
+3. git주소 복사
+4. 부트스트랩 폴더에서 마우스 오른쪽 버튼 클릭하여 'git bash'실행
+5. git remote add orgin 주소붙여넣기
+6. git init (초기화)
+7. git status (상태보기)  문자의 색상이 초록색인지 빨간색인지
+8. git add .   (파일 추적관리 추가)
+8. git branch -m master main (마스터 브런치의 이름 변경)
+9. git commit -m '메세지이름'
+10. git push origin +main (브런치에 업로드)
+
+jeon9897.github.io/bootstrap
